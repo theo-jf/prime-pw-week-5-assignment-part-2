@@ -1,16 +1,19 @@
-header {
+body {
+    margin: 0;
+}
+
+.midnightBlue {
     color: whitesmoke;
     background-color: midnightblue;
     text-align: center;
 }
 
-main {
+.paddedGray {
     background-color: lightgray;
     padding: 1em;
 }
 
-body {
+.recordBackground {
     background-image: url("../../assignment/record.png");
     background-repeat: repeat;
-    margin: 0;
 }
